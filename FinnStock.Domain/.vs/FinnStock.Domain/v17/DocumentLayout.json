@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952B8C4B-B552-4562-AED1-24B0F847A8C5}|FinnStack.API\\FinnStack.API.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstack.api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952B8C4B-B552-4562-AED1-24B0F847A8C5}|FinnStack.API\\FinnStack.API.csproj|solutionrelative:finnstack.api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952B8C4B-B552-4562-AED1-24B0F847A8C5}|FinnStack.API\\FinnStack.API.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952B8C4B-B552-4562-AED1-24B0F847A8C5}|FinnStack.API\\FinnStack.API.csproj|solutionrelative:finnstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1546F46E-C8AA-4634-A40E-1692A8B60423}|FinnStock.Infrastructure\\FinnStock.Infrastructure.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstock.infrastructure\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1546F46E-C8AA-4634-A40E-1692A8B60423}|FinnStock.Infrastructure\\FinnStock.Infrastructure.csproj|solutionrelative:finnstock.infrastructure\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1546F46E-C8AA-4634-A40E-1692A8B60423}|FinnStock.Infrastructure\\FinnStock.Infrastructure.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstock.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1546F46E-C8AA-4634-A40E-1692A8B60423}|FinnStock.Infrastructure\\FinnStock.Infrastructure.csproj|solutionrelative:finnstock.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B9CCD-C80E-4B57-B47D-A755A41A7828}|FinnStock.Application\\FinnStock.Application.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstock.application\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B9CCD-C80E-4B57-B47D-A755A41A7828}|FinnStock.Application\\FinnStock.Application.csproj|solutionrelative:finnstock.application\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B9CCD-C80E-4B57-B47D-A755A41A7828}|FinnStock.Application\\FinnStock.Application.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstock.application\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B9CCD-C80E-4B57-B47D-A755A41A7828}|FinnStock.Application\\FinnStock.Application.csproj|solutionrelative:finnstock.application\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B9CCD-C80E-4B57-B47D-A755A41A7828}|FinnStock.Application\\FinnStock.Application.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstock.application\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B9CCD-C80E-4B57-B47D-A755A41A7828}|FinnStock.Application\\FinnStock.Application.csproj|solutionrelative:finnstock.application\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B9CCD-C80E-4B57-B47D-A755A41A7828}|FinnStock.Application\\FinnStock.Application.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstock.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B9CCD-C80E-4B57-B47D-A755A41A7828}|FinnStock.Application\\FinnStock.Application.csproj|solutionrelative:finnstock.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB617D0-193F-4553-B13C-3BE2CCE6043B}|FinnStock.Domain\\FinnStock.Domain.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstock.domain\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB617D0-193F-4553-B13C-3BE2CCE6043B}|FinnStock.Domain\\FinnStock.Domain.csproj|solutionrelative:finnstock.domain\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB617D0-193F-4553-B13C-3BE2CCE6043B}|FinnStock.Domain\\FinnStock.Domain.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstock.domain\\stockline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB617D0-193F-4553-B13C-3BE2CCE6043B}|FinnStock.Domain\\FinnStock.Domain.csproj|solutionrelative:finnstock.domain\\stockline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB617D0-193F-4553-B13C-3BE2CCE6043B}|FinnStock.Domain\\FinnStock.Domain.csproj|c:\\learning\\finnhubstock\\finnstock.domain\\finnstock.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB617D0-193F-4553-B13C-3BE2CCE6043B}|FinnStock.Domain\\FinnStock.Domain.csproj|solutionrelative:finnstock.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStack.API\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "FinnStack.API\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStack.API\\Controllers\\StockController.cs",
+              "RelativeToolTip": "FinnStack.API\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:02:47.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStack.API\\Program.cs",
+              "RelativeDocumentMoniker": "FinnStack.API\\Program.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStack.API\\Program.cs",
+              "RelativeToolTip": "FinnStack.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:00:48.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Infrastructure\\StockRepository.cs",
+              "RelativeDocumentMoniker": "FinnStock.Infrastructure\\StockRepository.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Infrastructure\\StockRepository.cs",
+              "RelativeToolTip": "FinnStock.Infrastructure\\StockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:57:08.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "FinnStock.Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Infrastructure\\Program.cs",
+              "RelativeToolTip": "FinnStock.Infrastructure\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:53:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Application\\StockService.cs",
+              "RelativeDocumentMoniker": "FinnStock.Application\\StockService.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Application\\StockService.cs",
+              "RelativeToolTip": "FinnStock.Application\\StockService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:39:48.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Application\\IStockService.cs",
+              "RelativeDocumentMoniker": "FinnStock.Application\\IStockService.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Application\\IStockService.cs",
+              "RelativeToolTip": "FinnStock.Application\\IStockService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:39:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Application\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "FinnStock.Application\\IStockRepository.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Application\\IStockRepository.cs",
+              "RelativeToolTip": "FinnStock.Application\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:38:32.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Application\\Program.cs",
+              "RelativeDocumentMoniker": "FinnStock.Application\\Program.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Application\\Program.cs",
+              "RelativeToolTip": "FinnStock.Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:35:22.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StockLine.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Domain\\StockLine.cs",
+              "RelativeDocumentMoniker": "FinnStock.Domain\\StockLine.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Domain\\StockLine.cs",
+              "RelativeToolTip": "FinnStock.Domain\\StockLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:33:26.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockData.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Domain\\StockData.cs",
+              "RelativeDocumentMoniker": "FinnStock.Domain\\StockData.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Domain\\StockData.cs",
+              "RelativeToolTip": "FinnStock.Domain\\StockData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:33:05.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "FinnStock.Domain\\Program.cs",
+              "ToolTip": "C:\\Learning\\FinnHubStock\\FinnStock.Domain\\FinnStock.Domain\\Program.cs",
+              "RelativeToolTip": "FinnStock.Domain\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:32:05.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
